@@ -9,7 +9,7 @@
 
 body {
     font: 400 14px Roboto, sans-serif;
-    background: #f0f0f5;
+    background: #dddde4;
     -webkit-font-smoothing: antialiasing;
 }
 
@@ -24,7 +24,7 @@ button {
 form input {
     width: 100%;
     height: 60px;
-    color: #3333;
+    color: #333;
     border: 1px solid #babaca;
     border-radius: 8px;
     padding: 0 24px;

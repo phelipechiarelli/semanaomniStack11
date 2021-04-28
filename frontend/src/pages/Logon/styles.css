@@ -16,8 +16,8 @@
 }
 
 .logon-container section.form h1 {
-    font-size: 32px;
-    margin-bottom: 32px;
+    font-size: 28px;
+    margin-bottom: 28px;
 }
 
 .logon-container section.form a {
@@ -37,4 +37,9 @@
 
 .logon-container section.form a:hover {
     opacity: 0.8;
+}
+
+.logon-container img.heroesImg {
+    width: 100%;
+    max-width: 350px;
 }
